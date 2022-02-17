@@ -22,4 +22,6 @@ public abstract class Card {
     @Override
     public abstract String toString();
 
+    // this is a new edit
+
 }
